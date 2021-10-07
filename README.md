@@ -43,5 +43,5 @@ SSAFY 6기 대전 1반 알고리즘 스터디입니다.
 | 1주차 (0907 - 0914) |   공유기 설치   | 구간 나누기 2 |    2+1 세일    |  알바생 강호   | 꿀 따기 |
 | 2주차 (0914 - 0923) |       큐2       |     스택      |    미로탐색    |   DFS와 BFS    | 연구소  |
 | 3주차 (0928 - 1005) | 트리의 부모찾기 |   트리 순회   | [완전 이진 트리](https://www.acmicpc.net/problem/9934) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |  [트리](https://www.acmicpc.net/problem/1068)   |
-| 2주차 (0914 - 0923) |       [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)       |     [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)      |    [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)    |   [나라와 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)    | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)  |
+| 4주차 (1005 - 1012) |       [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)       |     [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)      |    [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)    |   [나라와 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)    | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)  |
 
